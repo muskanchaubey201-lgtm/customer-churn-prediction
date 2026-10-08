@@ -1,0 +1,14 @@
+# Original/private datasets
+* .CSV
+* .xlsx
+* .xls
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
